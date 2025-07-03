@@ -4,7 +4,7 @@
 本專題旨在分析自己開發的手機遊戲在市場中的競爭對手狀況，觀察小遊戲產業的營收與趨勢。
 
 ## 📊 資料來源 / 取得方式
-資料來自 [Sensor Tower](https://sensortower.com/)，可查詢APP的營收概況。  
+資料來自 <a href="https://sensortower.com/" target="_blank">Sensor Tower</a>，可查詢APP的營收概況。  
 進入網站後，查詢 專門製作小遊戲的公司 然後使用右上角的「下載 CSV」功能取得整個公司[當月]營收資料。
 
 ## 👥 專題成員
