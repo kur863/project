@@ -1,0 +1,6 @@
+ballblast
+https://app.sensortower.com/overview/com.nomonkeys.ballblast?country=US
+Last War
+https://app.sensortower.com/overview/com.fun.lastwar.gp?country=US
+candycrushsaga
+https://app.sensortower.com/overview/com.king.candycrushsaga?country=US
